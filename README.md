@@ -8,7 +8,7 @@ Its based on a Rocketseat template: **[Access template](https://github.com/Rocke
 
 ### Functionalities
 
-- **`List repositories from API`**: Should be able to create a list with field **title** of repositories from API/
+- **`List repositories from API`**: Should be able to create a list with field **title**, **techs** and **likes** of repositories from API
 
 - **`Like repositories from API`**: Should be able to like repositories and update its counting
 
